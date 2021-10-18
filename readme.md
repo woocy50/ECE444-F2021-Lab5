@@ -4,6 +4,20 @@ Chang Yeon Woo
 
 This repo is a clone of https://github.com/nelaturuk/education_pathways.
 
+# Activity 1
+
+![image](https://user-images.githubusercontent.com/19890962/137704600-f65f8a1c-5565-4ac8-9485-cbc0b1b22520.png)
+
+# Activity 2-5
+## Home page
+![image](https://user-images.githubusercontent.com/19890962/137705037-8a694ef2-55ae-4e74-b060-c595fba642b7.png)
+
+## Results page
+![image](https://user-images.githubusercontent.com/19890962/137704942-5fa20076-4890-4f9b-9ed5-f018225ca615.png)
+
+# Activity 6
+The new UI looks more pleasing, now with appropriate margins and borders. However, it still looks very basic -- much like early 2000s websites. In our project, we should use more asthetic approaches such as cards to format the texts/buttons/etc. even nicer.
+
 -----------------------
 
 ## Description
