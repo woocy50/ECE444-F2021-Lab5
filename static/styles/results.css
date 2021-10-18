@@ -26,6 +26,6 @@
 }
 
 #results-page-table-container table th:last-child, 
-#restuls-page-table-container table td:last-child {
+#results-page-table-container table td:last-child {
     border-right: 1px solid #00204E;
 }
